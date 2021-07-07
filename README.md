@@ -19,4 +19,5 @@
 </tbody>
 </table>
 
-<p align="right"><img src="https://c.tenor.com/k6ObkVLNzF4AAAAj/mandalorian-baby-yoda.gif"><p>
+<p align="right"><img src="https://c.tenor.com/k6ObkVLNzF4AAAAj/mandalorian-baby-yoda.gif"></p>
+
