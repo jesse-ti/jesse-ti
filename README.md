@@ -19,4 +19,4 @@
 </tbody>
 </table>
 
-<p align="right"><img src="https://c.tenor.com/9HMzOjXLdesAAAAj/ravenclaw-ravenclaw-cat.gif"><p>
+<p align="right"><img src="https://c.tenor.com/MINGa96hNgIAAAAj/mandalorian-baby-yoda.gif"><p>
