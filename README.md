@@ -2,7 +2,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/jlealti/"><img src="https://camo.githubusercontent.com/a69c327a2641d5c563f1776962eae3ce2fd00c2755e6fdf66c5a6cdc54f2a2c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a> <a href="mailto:jleal.ti@gmail.com"><img src="https://camo.githubusercontent.com/7c4791665d55a39b94e86943984e4fc376cf4e1921b3915eeae154b7516879ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465"></a></p>
 
 <p align="center">I graduated from Estácio de Sá University  (Brazil) with computer redes. </p>
-<p align="center">I already liked programming before college, but I started to learn more about it in 2020, since then I don't intend to stop.</p>
+<p align="center">I already liked programming before college, but I started to learn more in 2020, since then I've been looking to improve my skills and update my knowledge in the area.</p>
 <p align="center">I like to discover new technologies and quickly adapt to them. Now, I usually engage in front-end technologies. </p>
 
  ####  🔧Languages and tools
